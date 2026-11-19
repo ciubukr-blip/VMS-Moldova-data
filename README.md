@@ -11,4 +11,4 @@ Codul sursă al aplicației nu se află aici.
 - **Confidențialitate.** Vezi [PRIVACY.md](PRIVACY.md). Aplicația nu colectează date personale, iar portofoliul
   rămâne doar pe telefonul tău.
 
-Autor: Craciun Radu · radu.craciun1982@gmail.com
+Autor: Craciun Radu · ciubuk.r@gmail.com

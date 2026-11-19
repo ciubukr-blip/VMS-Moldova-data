@@ -2,7 +2,7 @@
 
 *Ultima actualizare: noiembrie 2026*
 
-**Cine suntem.** VMS Moldova este dezvoltată de Craciun Radu, radu.craciun1982@gmail.com.
+**Cine suntem.** VMS Moldova este dezvoltată de Craciun Radu, ciubuk.r@gmail.com.
 
 **Ce date colectăm.** Nicio dată personală. Aplicația nu cere cont, nu folosește instrumente de analiză sau publicitate
 și nu are acces la contacte, locație, cameră sau alte date de pe telefon.
@@ -32,4 +32,4 @@ sau recomandări de investiții și nu vinde sau tranzacționează valori mobili
 
 **Legislație.** Legea nr. 133/2011 privind protecția datelor cu caracter personal (Republica Moldova).
 
-**Contact.** radu.craciun1982@gmail.com
+**Contact.** ciubuk.r@gmail.com
