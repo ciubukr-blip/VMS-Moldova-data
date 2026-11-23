@@ -36777,8 +36777,8 @@
     },
     {
      "date": "2023-09-03",
-     "rate": 19.9,
-     "base": 19.65,
+     "rate": 14.7,
+     "base": 14.45,
      "margin": 0.25
     }
    ]
@@ -37768,6 +37768,12 @@
    "coupon_type": "flotant",
    "margin": 2.0,
    "coupon_history": [
+    {
+     "date": "2023-03-11",
+     "rate": 22.32,
+     "base": 20.32,
+     "margin": 2.0
+    },
     {
      "date": "2023-09-11",
      "rate": 15.07,
@@ -43010,7 +43016,7 @@
     "2034-12-13",
     "2035-06-13"
    ],
-   "source": "https://mf.gov.md/sites/default/files/Comunicat%20plasare%20OS-11.06.2025-rom.pdf"
+   "source": "https://www.mf.gov.md/sites/default/files/Comunicat%20plasare%20OS-11.06.2025-rom.pdf"
   },
   {
    "isin": "MD4003004257",
@@ -43099,7 +43105,7 @@
     "2027-01-11",
     "2027-07-11"
    ],
-   "source": "https://mf.gov.md/sites/default/files/Comunicat%20plasare%20OS-09.07.2025-rom.pdf"
+   "source": "https://www.mf.gov.md/sites/default/files/Comunicat%20plasare%20OS-09.07.2025-rom.pdf"
   },
   {
    "isin": "MD4004001948",
@@ -43118,7 +43124,7 @@
     "2028-01-11",
     "2028-07-11"
    ],
-   "source": "https://mf.gov.md/sites/default/files/Comunicat%20plasare%20OS-09.07.2025-rom.pdf"
+   "source": "https://www.mf.gov.md/sites/default/files/Comunicat%20plasare%20OS-09.07.2025-rom.pdf"
   },
   {
    "isin": "MD4003004315",
@@ -43213,7 +43219,7 @@
     "2030-02-15",
     "2030-08-15"
    ],
-   "source": "https://mf.gov.md/sites/default/files/Comunicat%20plasare%20OS-13.08.2025-rom.pdf"
+   "source": "https://www.mf.gov.md/sites/default/files/Comunicat%20plasare%20OS-13.08.2025-rom.pdf"
   },
   {
    "isin": "MD4003004372",
@@ -43312,7 +43318,7 @@
     "2032-03-12",
     "2032-09-12"
    ],
-   "source": "https://mf.gov.md/sites/default/files/Comunicat%20plasare%20OS-10.09.2025-rom.pdf"
+   "source": "https://www.mf.gov.md/sites/default/files/Comunicat%20plasare%20OS-10.09.2025-rom.pdf"
   },
   {
    "isin": "MD4003004430",
@@ -43401,7 +43407,7 @@
     "2027-04-10",
     "2027-10-10"
    ],
-   "source": "https://mf.gov.md/sites/default/files/Comunicat%20plasare%20OS-08.10.2025-rom.pdf"
+   "source": "https://www.mf.gov.md/sites/default/files/Comunicat%20plasare%20OS-08.10.2025-rom.pdf"
   },
   {
    "isin": "MD4004002060",
@@ -43420,7 +43426,7 @@
     "2028-04-10",
     "2028-10-10"
    ],
-   "source": "https://mf.gov.md/sites/default/files/Comunicat%20plasare%20OS-08.10.2025-rom.pdf"
+   "source": "https://www.mf.gov.md/sites/default/files/Comunicat%20plasare%20OS-08.10.2025-rom.pdf"
   },
   {
    "isin": "MD4003004497",
@@ -43468,7 +43474,7 @@
    "maturity": "2026-02-05",
    "coupon_rate": null,
    "coupon_dates": [],
-   "source": "https://mf.gov.md/sites/default/files/Comunicat%20plasare%20BT-04.11.2025-rom.pdf"
+   "source": "https://www.mf.gov.md/sites/default/files/Comunicat%20plasare%20BT-04.11.2025-rom.pdf"
   },
   {
    "isin": "MD4003004539",
@@ -43480,7 +43486,7 @@
    "maturity": "2026-05-07",
    "coupon_rate": null,
    "coupon_dates": [],
-   "source": "https://mf.gov.md/sites/default/files/Comunicat%20plasare%20BT-04.11.2025-rom.pdf"
+   "source": "https://www.mf.gov.md/sites/default/files/Comunicat%20plasare%20BT-04.11.2025-rom.pdf"
   },
   {
    "isin": "MD4003004547",
@@ -43492,7 +43498,7 @@
    "maturity": "2026-11-05",
    "coupon_rate": null,
    "coupon_dates": [],
-   "source": "https://mf.gov.md/sites/default/files/Comunicat%20plasare%20BT-04.11.2025-rom.pdf"
+   "source": "https://www.mf.gov.md/sites/default/files/Comunicat%20plasare%20BT-04.11.2025-rom.pdf"
   },
   {
    "isin": "MD4003004554",
@@ -43504,7 +43510,7 @@
    "maturity": "2026-02-19",
    "coupon_rate": null,
    "coupon_dates": [],
-   "source": "https://mf.gov.md/sites/default/files/Comunicat%20plasare%20BT-18.11.2025-rom.pdf"
+   "source": "https://www.mf.gov.md/sites/default/files/Comunicat%20plasare%20BT-18.11.2025-rom.pdf"
   },
   {
    "isin": "MD4003004562",
@@ -43516,7 +43522,7 @@
    "maturity": "2026-05-21",
    "coupon_rate": null,
    "coupon_dates": [],
-   "source": "https://mf.gov.md/sites/default/files/Comunicat%20plasare%20BT-18.11.2025-rom.pdf"
+   "source": "https://www.mf.gov.md/sites/default/files/Comunicat%20plasare%20BT-18.11.2025-rom.pdf"
   },
   {
    "isin": "MD4003004570",
@@ -43528,7 +43534,7 @@
    "maturity": "2026-11-19",
    "coupon_rate": null,
    "coupon_dates": [],
-   "source": "https://mf.gov.md/sites/default/files/Comunicat%20plasare%20BT-18.11.2025-rom.pdf"
+   "source": "https://www.mf.gov.md/sites/default/files/Comunicat%20plasare%20BT-18.11.2025-rom.pdf"
   },
   {
    "isin": "MD4003004588",
@@ -43540,7 +43546,7 @@
    "maturity": "2026-03-05",
    "coupon_rate": null,
    "coupon_dates": [],
-   "source": "https://mf.gov.md/sites/default/files/Comunicat%20plasare%20BT-02.12.2025-rom.pdf"
+   "source": "https://www.mf.gov.md/sites/default/files/Comunicat%20plasare%20BT-02.12.2025-rom.pdf"
   },
   {
    "isin": "MD4003004596",
@@ -43552,7 +43558,7 @@
    "maturity": "2026-06-04",
    "coupon_rate": null,
    "coupon_dates": [],
-   "source": "https://mf.gov.md/sites/default/files/Comunicat%20plasare%20BT-02.12.2025-rom.pdf"
+   "source": "https://www.mf.gov.md/sites/default/files/Comunicat%20plasare%20BT-02.12.2025-rom.pdf"
   },
   {
    "isin": "MD4003004604",
@@ -43564,7 +43570,7 @@
    "maturity": "2026-12-03",
    "coupon_rate": null,
    "coupon_dates": [],
-   "source": "https://mf.gov.md/sites/default/files/Comunicat%20plasare%20BT-02.12.2025-rom.pdf"
+   "source": "https://www.mf.gov.md/sites/default/files/Comunicat%20plasare%20BT-02.12.2025-rom.pdf"
   },
   {
    "isin": "MD4004002110",
@@ -43597,7 +43603,7 @@
     "2035-06-12",
     "2035-12-12"
    ],
-   "source": "https://mf.gov.md/sites/default/files/Comunicat%20plasare%20OS-10.12.2025-rom.pdf"
+   "source": "https://www.mf.gov.md/sites/default/files/Comunicat%20plasare%20OS-10.12.2025-rom.pdf"
   },
   {
    "isin": "MD4003004612",
@@ -43609,7 +43615,7 @@
    "maturity": "2026-03-19",
    "coupon_rate": null,
    "coupon_dates": [],
-   "source": "https://mf.gov.md/sites/default/files/Comunicat%20plasare%20BT-16.12.2025-rom.pdf"
+   "source": "https://www.mf.gov.md/sites/default/files/Comunicat%20plasare%20BT-16.12.2025-rom.pdf"
   },
   {
    "isin": "MD4003004620",
@@ -43621,7 +43627,7 @@
    "maturity": "2026-06-18",
    "coupon_rate": null,
    "coupon_dates": [],
-   "source": "https://mf.gov.md/sites/default/files/Comunicat%20plasare%20BT-16.12.2025-rom.pdf"
+   "source": "https://www.mf.gov.md/sites/default/files/Comunicat%20plasare%20BT-16.12.2025-rom.pdf"
   },
   {
    "isin": "MD4003004638",
@@ -43633,7 +43639,7 @@
    "maturity": "2026-12-17",
    "coupon_rate": null,
    "coupon_dates": [],
-   "source": "https://mf.gov.md/sites/default/files/Comunicat%20plasare%20BT-16.12.2025-rom.pdf"
+   "source": "https://www.mf.gov.md/sites/default/files/Comunicat%20plasare%20BT-16.12.2025-rom.pdf"
   },
   {
    "isin": "MD4003004646",
@@ -43645,7 +43651,7 @@
    "maturity": "2026-03-26",
    "coupon_rate": null,
    "coupon_dates": [],
-   "source": "https://mf.gov.md/sites/default/files/Comunicat%20plasare%20BT-23.12.2025-rom.pdf"
+   "source": "https://www.mf.gov.md/sites/default/files/Comunicat%20plasare%20BT-23.12.2025-rom.pdf"
   },
   {
    "isin": "MD4003004653",
@@ -43657,7 +43663,7 @@
    "maturity": "2026-06-25",
    "coupon_rate": null,
    "coupon_dates": [],
-   "source": "https://mf.gov.md/sites/default/files/Comunicat%20plasare%20BT-23.12.2025-rom.pdf"
+   "source": "https://www.mf.gov.md/sites/default/files/Comunicat%20plasare%20BT-23.12.2025-rom.pdf"
   },
   {
    "isin": "MD4003004661",
@@ -43669,7 +43675,7 @@
    "maturity": "2026-12-24",
    "coupon_rate": null,
    "coupon_dates": [],
-   "source": "https://mf.gov.md/sites/default/files/Comunicat%20plasare%20BT-23.12.2025-rom.pdf"
+   "source": "https://www.mf.gov.md/sites/default/files/Comunicat%20plasare%20BT-23.12.2025-rom.pdf"
   },
   {
    "isin": "MD4003004679",
@@ -82376,7 +82382,7 @@
    "announced": 1500000.0,
    "demand": 1345242.3,
    "placed_nominal": 1345024.8,
-   "placed_price": 1284633.19,
+   "placed_price": 1284675.7,
    "participants": 9,
    "unit": "mii lei"
   },
@@ -82393,7 +82399,7 @@
    "announced": 1550000.0,
    "demand": 1155105.8,
    "placed_nominal": 1151613.9,
-   "placed_price": 1053496.4,
+   "placed_price": 1053512.7,
    "participants": 9,
    "unit": "mii lei"
   },
@@ -82410,7 +82416,7 @@
    "announced": 85000.0,
    "demand": 22126.1,
    "placed_nominal": 22126.1,
-   "placed_price": 21960.15,
+   "placed_price": 21960.2,
    "participants": 4,
    "unit": "mii lei"
   },
@@ -82427,7 +82433,7 @@
    "announced": 1600000.0,
    "demand": 1687841.9,
    "placed_nominal": 1682737.1,
-   "placed_price": 1606677.38,
+   "placed_price": 1606602.2,
    "participants": 8,
    "unit": "mii lei"
   },
@@ -82444,7 +82450,7 @@
    "announced": 1700000.0,
    "demand": 778233.9,
    "placed_nominal": 761736.8,
-   "placed_price": 696455.96,
+   "placed_price": 696480.3,
    "participants": 9,
    "unit": "mii lei"
   },
@@ -82496,7 +82502,7 @@
    "announced": 1600000.0,
    "demand": 1327269.4,
    "placed_nominal": 1295614.4,
-   "placed_price": 1237052.63,
+   "placed_price": 1237001.9,
    "participants": 9,
    "unit": "mii lei"
   },
@@ -82513,7 +82519,7 @@
    "announced": 1700000.0,
    "demand": 1090540.8,
    "placed_nominal": 1072442.5,
-   "placed_price": 980534.18,
+   "placed_price": 980554.1,
    "participants": 10,
    "unit": "mii lei"
   },
@@ -82530,7 +82536,7 @@
    "announced": 50000.0,
    "demand": 3659.3,
    "placed_nominal": 3659.3,
-   "placed_price": 3631.86,
+   "placed_price": 3631.9,
    "participants": 3,
    "unit": "mii lei"
   },
@@ -82547,7 +82553,7 @@
    "announced": 940000.0,
    "demand": 1038704.2,
    "placed_nominal": 1038179.3,
-   "placed_price": 991357.41,
+   "placed_price": 991379.3,
    "participants": 8,
    "unit": "mii lei"
   },
@@ -82564,7 +82570,7 @@
    "announced": 800000.0,
    "demand": 385292.6,
    "placed_nominal": 361103.5,
-   "placed_price": 330012.49,
+   "placed_price": 330020.2,
    "participants": 7,
    "unit": "mii lei"
   },
@@ -84156,5 +84162,5 @@
    ]
   }
  ],
- "generated_at": "2026-11-18T11:06:24+00:00"
+ "generated_at": "2026-11-23T13:46:28+00:00"
 }
