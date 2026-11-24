@@ -44741,6 +44741,42 @@
    "coupon_rate": null,
    "coupon_dates": [],
    "source": "https://www.mf.gov.md/sites/default/files/Comunicat%20plasare%20BT-17.11.2026-rom.pdf"
+  },
+  {
+   "isin": "MD4003005338",
+   "type": "BT",
+   "term_label": "91 zile",
+   "term_days": 91,
+   "auction_date": "2026-12-01",
+   "issue_date": "2026-12-03",
+   "maturity": "2027-03-04",
+   "coupon_rate": null,
+   "coupon_dates": [],
+   "source": "https://www.mf.gov.md/sites/default/files/Comunicat%20plasare%20BT-01.12.2026-rom.pdf"
+  },
+  {
+   "isin": "MD4003005346",
+   "type": "BT",
+   "term_label": "182 zile",
+   "term_days": 182,
+   "auction_date": "2026-12-01",
+   "issue_date": "2026-12-03",
+   "maturity": "2027-06-03",
+   "coupon_rate": null,
+   "coupon_dates": [],
+   "source": "https://www.mf.gov.md/sites/default/files/Comunicat%20plasare%20BT-01.12.2026-rom.pdf"
+  },
+  {
+   "isin": "MD4003005353",
+   "type": "BT",
+   "term_label": "364 zile",
+   "term_days": 364,
+   "auction_date": "2026-12-01",
+   "issue_date": "2026-12-03",
+   "maturity": "2027-12-02",
+   "coupon_rate": null,
+   "coupon_dates": [],
+   "source": "https://www.mf.gov.md/sites/default/files/Comunicat%20plasare%20BT-01.12.2026-rom.pdf"
   }
  ],
  "auctions": [
@@ -84162,5 +84198,5 @@
    ]
   }
  ],
- "generated_at": "2026-11-24T13:17:53+00:00"
+ "generated_at": "2026-11-24T14:38:52+00:00"
 }
