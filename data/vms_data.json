@@ -37625,7 +37625,8 @@
      "base": 8.92,
      "margin": 0.2
     }
-   ]
+   ],
+   "volume": 10.0
   },
   {
    "isin": "MD4003001600",
@@ -37678,7 +37679,8 @@
     "2023-07-21",
     "2024-01-21"
    ],
-   "source": "https://www.mf.gov.md/sites/default/files/Comunicat%20plasare%20OS-19.01.2022-rom.pdf"
+   "source": "https://www.mf.gov.md/sites/default/files/Comunicat%20plasare%20OS-19.01.2022-rom.pdf",
+   "volume": 10.0
   },
   {
    "isin": "MD4004000759",
@@ -37697,7 +37699,8 @@
     "2024-07-21",
     "2025-01-21"
    ],
-   "source": "https://www.mf.gov.md/sites/default/files/Comunicat%20plasare%20OS-19.01.2022-rom.pdf"
+   "source": "https://www.mf.gov.md/sites/default/files/Comunicat%20plasare%20OS-19.01.2022-rom.pdf",
+   "volume": 10.0
   },
   {
    "isin": "MD4004000767",
@@ -37724,7 +37727,8 @@
     "2028-07-28",
     "2029-01-28"
    ],
-   "source": "https://www.mf.gov.md/sites/default/files/Comunicat%20plasare%20OS-26.01.2022-rom.pdf"
+   "source": "https://www.mf.gov.md/sites/default/files/Comunicat%20plasare%20OS-26.01.2022-rom.pdf",
+   "volume": 10.0
   },
   {
    "isin": "MD4003001634",
@@ -37799,7 +37803,8 @@
      "base": 7.55,
      "margin": 0.4
     }
-   ]
+   ],
+   "volume": 20.0
   },
   {
    "isin": "MD4003001667",
@@ -37852,7 +37857,8 @@
     "2023-08-18",
     "2024-02-18"
    ],
-   "source": "https://www.mf.gov.md/sites/default/files/Comunicat%20plasare%20OS-16.02.2022-rom.pdf"
+   "source": "https://www.mf.gov.md/sites/default/files/Comunicat%20plasare%20OS-16.02.2022-rom.pdf",
+   "volume": 5.0
   },
   {
    "isin": "MD4004000791",
@@ -37875,7 +37881,8 @@
     "2026-08-18",
     "2027-02-18"
    ],
-   "source": "https://www.mf.gov.md/sites/default/files/Comunicat%20plasare%20OS-16.02.2022-rom.pdf"
+   "source": "https://www.mf.gov.md/sites/default/files/Comunicat%20plasare%20OS-16.02.2022-rom.pdf",
+   "volume": 5.0
   },
   {
    "isin": "MD4003001691",
@@ -37950,7 +37957,8 @@
      "base": 6.93,
      "margin": 2.0
     }
-   ]
+   ],
+   "volume": 20.0
   },
   {
    "isin": "MD4003001725",
@@ -38003,7 +38011,8 @@
     "2023-09-18",
     "2024-03-18"
    ],
-   "source": "https://www.mf.gov.md/sites/default/files/Comunicat%20plasare%20OS-16.03.2022%20-rom.pdf"
+   "source": "https://www.mf.gov.md/sites/default/files/Comunicat%20plasare%20OS-16.03.2022%20-rom.pdf",
+   "volume": 10.0
   },
   {
    "isin": "MD4004000833",
@@ -38022,7 +38031,8 @@
     "2024-09-18",
     "2025-03-18"
    ],
-   "source": "https://www.mf.gov.md/sites/default/files/Comunicat%20plasare%20OS-16.03.2022%20-rom.pdf"
+   "source": "https://www.mf.gov.md/sites/default/files/Comunicat%20plasare%20OS-16.03.2022%20-rom.pdf",
+   "volume": 10.0
   },
   {
    "isin": "MD4004000841",
@@ -38045,7 +38055,8 @@
     "2026-09-18",
     "2027-03-18"
    ],
-   "source": "https://www.mf.gov.md/sites/default/files/Comunicat%20plasare%20OS-16.03.2022%20-rom.pdf"
+   "source": "https://www.mf.gov.md/sites/default/files/Comunicat%20plasare%20OS-16.03.2022%20-rom.pdf",
+   "volume": 10.0
   },
   {
    "isin": "MD4003001758",
@@ -39721,7 +39732,8 @@
      "base": 4.1,
      "margin": 0.1
     }
-   ]
+   ],
+   "volume": 10.0
   },
   {
    "isin": "MD4004001187",
@@ -39774,7 +39786,8 @@
      "base": 9.44,
      "margin": 0.15
     }
-   ]
+   ],
+   "volume": 10.0
   },
   {
    "isin": "MD4003002384",
@@ -39899,7 +39912,8 @@
     "2024-08-10",
     "2025-02-10"
    ],
-   "source": "https://www.mf.gov.md/sites/default/files/Comunicat%20plasare%20OS-08.02.2023-rom.pdf"
+   "source": "https://www.mf.gov.md/sites/default/files/Comunicat%20plasare%20OS-08.02.2023-rom.pdf",
+   "volume": 10.0
   },
   {
    "isin": "MD4004001229",
@@ -39918,7 +39932,8 @@
     "2025-08-10",
     "2026-02-10"
    ],
-   "source": "https://www.mf.gov.md/sites/default/files/Comunicat%20plasare%20OS-08.02.2023-rom.pdf"
+   "source": "https://www.mf.gov.md/sites/default/files/Comunicat%20plasare%20OS-08.02.2023-rom.pdf",
+   "volume": 10.0
   },
   {
    "isin": "MD4003002442",
@@ -39971,7 +39986,8 @@
     "2024-08-17",
     "2025-02-17"
    ],
-   "source": "https://www.mf.gov.md/sites/default/files/Comunicat%20plasare%20OS-15.02.2023-rom.pdf"
+   "source": "https://www.mf.gov.md/sites/default/files/Comunicat%20plasare%20OS-15.02.2023-rom.pdf",
+   "volume": 10.0
   },
   {
    "isin": "MD4004001245",
@@ -39990,7 +40006,8 @@
     "2025-08-17",
     "2026-02-17"
    ],
-   "source": "https://www.mf.gov.md/sites/default/files/Comunicat%20plasare%20OS-15.02.2023-rom.pdf"
+   "source": "https://www.mf.gov.md/sites/default/files/Comunicat%20plasare%20OS-15.02.2023-rom.pdf",
+   "volume": 10.0
   },
   {
    "isin": "MD4003002483",
@@ -84415,5 +84432,5 @@
    ]
   }
  ],
- "generated_at": "2026-11-25T13:23:16+00:00"
+ "generated_at": "2026-11-25T14:45:17+00:00"
 }
