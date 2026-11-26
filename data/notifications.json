@@ -1,0 +1,74 @@
+{
+ "schema": 1,
+ "items": [
+  {
+   "id": "launch:2026-12-01",
+   "kind": "launch",
+   "key": "2026-12-01",
+   "sent_at": "2026-11-24T14:38:52+00:00",
+   "text": {
+    "ro": {
+     "title": "Licitație VMS anunțată: 01.12.2026",
+     "body": "BT 91, 182, 364 zile. Decontare 03.12.2026.",
+     "detail": "Licitația: 01.12.2026\nBT 91 zile: 30–60 mil. lei\nBT 182 zile: 1200–1400 mil. lei\nBT 364 zile: 1400–1800 mil. lei"
+    },
+    "ru": {
+     "title": "Объявлен аукцион ГЦБ: 01.12.2026",
+     "body": "КО 91, 182, 364 дн. Расчёты 03.12.2026.",
+     "detail": "Аукцион: 01.12.2026\nКО 91 дн.: 30–60 млн лей\nКО 182 дн.: 1200–1400 млн лей\nКО 364 дн.: 1400–1800 млн лей"
+    },
+    "en": {
+     "title": "SS auction announced: 01.12.2026",
+     "body": "T-Bills 91, 182, 364 days. Settlement 03.12.2026.",
+     "detail": "Auction: 01.12.2026\nT-Bills 91 days: 30–60 MDL m\nT-Bills 182 days: 1200–1400 MDL m\nT-Bills 364 days: 1400–1800 MDL m"
+    }
+   }
+  },
+  {
+   "id": "results:2026-11-17",
+   "kind": "results",
+   "key": "2026-11-17",
+   "sent_at": "2026-11-17T14:41:54+00:00",
+   "text": {
+    "ro": {
+     "title": "Rezultatele licitației din 17.11.2026",
+     "body": "Rata maximă: 91 zile 5,28% · 182 zile 13,51% · 364 zile 15,00%",
+     "detail": "BT 91 zile: min 3,15% · medie 3,60% · max 5,28% · plasat 31 mil. lei\nBT 182 zile: min 11,00% · medie 12,39% · max 13,51% · plasat 1112 mil. lei\nBT 364 zile: min 11,07% · medie 14,09% · max 15,00% · plasat 1824 mil. lei"
+    },
+    "ru": {
+     "title": "Результаты аукциона 17.11.2026",
+     "body": "Максимальная ставка: 91 дн. 5,28% · 182 дн. 13,51% · 364 дн. 15,00%",
+     "detail": "КО 91 дн.: мин 3,15% · средн. 3,60% · макс 5,28% · размещено 31 млн лей\nКО 182 дн.: мин 11,00% · средн. 12,39% · макс 13,51% · размещено 1112 млн лей\nКО 364 дн.: мин 11,07% · средн. 14,09% · макс 15,00% · размещено 1824 млн лей"
+    },
+    "en": {
+     "title": "Auction results of 17.11.2026",
+     "body": "Maximum rate: 91 days 5.28% · 182 days 13.51% · 364 days 15.00%",
+     "detail": "T-Bills 91 days: min 3.15% · avg 3.60% · max 5.28% · placed 31 MDL m\nT-Bills 182 days: min 11.00% · avg 12.39% · max 13.51% · placed 1112 MDL m\nT-Bills 364 days: min 11.07% · avg 14.09% · max 15.00% · placed 1824 MDL m"
+    }
+   }
+  },
+  {
+   "id": "launch:2026-11-17",
+   "kind": "launch",
+   "key": "2026-11-17",
+   "sent_at": "2026-11-12T12:39:54+00:00",
+   "text": {
+    "ro": {
+     "title": "Licitație VMS anunțată: 17.11.2026",
+     "body": "BT 91, 182, 364 zile. Decontare 19.11.2026.",
+     "detail": "Licitația: 17.11.2026\nBT 91 zile: 30–60 mil. lei\nBT 182 zile: 1200–1400 mil. lei\nBT 364 zile: 1400–1800 mil. lei"
+    },
+    "ru": {
+     "title": "Объявлен аукцион ГЦБ: 17.11.2026",
+     "body": "КО 91, 182, 364 дн. Расчёты 19.11.2026.",
+     "detail": "Аукцион: 17.11.2026\nКО 91 дн.: 30–60 млн лей\nКО 182 дн.: 1200–1400 млн лей\nКО 364 дн.: 1400–1800 млн лей"
+    },
+    "en": {
+     "title": "SS auction announced: 17.11.2026",
+     "body": "T-Bills 91, 182, 364 days. Settlement 19.11.2026.",
+     "detail": "Auction: 17.11.2026\nT-Bills 91 days: 30–60 MDL m\nT-Bills 182 days: 1200–1400 MDL m\nT-Bills 364 days: 1400–1800 MDL m"
+    }
+   }
+  }
+ ]
+}
