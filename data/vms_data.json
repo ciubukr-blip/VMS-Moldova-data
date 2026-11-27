@@ -84451,5 +84451,2157 @@
    ]
   }
  ],
- "generated_at": "2026-11-26T16:27:41+00:00"
+ "evms": {
+  "issues": [
+   {
+    "isin": "MD4004001682",
+    "term_years": 2,
+    "announced": 50000.0,
+    "subscribed": 78712.9,
+    "coupon_rate": 6.0,
+    "maturity": "2026-09-26",
+    "nominal": 100,
+    "open_date": "2024-09-16",
+    "close_date": "2024-09-25",
+    "issue_date": "2024-09-26",
+    "coupon_dates": [
+     "2025-03-26",
+     "2025-09-26",
+     "2026-03-26",
+     "2026-09-26"
+    ]
+   },
+   {
+    "isin": "MD4004001724",
+    "term_years": 1,
+    "announced": 25000.0,
+    "subscribed": 104588.0,
+    "coupon_rate": 6.85,
+    "maturity": "2025-12-16",
+    "nominal": 100,
+    "open_date": "2024-12-06",
+    "close_date": "2024-12-15",
+    "issue_date": "2024-12-16",
+    "coupon_dates": [
+     "2025-06-16",
+     "2025-12-16"
+    ]
+   },
+   {
+    "isin": "MD4004001732",
+    "term_years": 2,
+    "announced": 25000.0,
+    "subscribed": 46317.1,
+    "coupon_rate": 7.0,
+    "maturity": "2026-12-16",
+    "nominal": 100,
+    "open_date": "2024-12-06",
+    "close_date": "2024-12-15",
+    "issue_date": "2024-12-16",
+    "coupon_dates": [
+     "2025-06-16",
+     "2025-12-16",
+     "2026-06-16",
+     "2026-12-16"
+    ]
+   },
+   {
+    "isin": "MD4004001815",
+    "term_years": 1,
+    "announced": 75000.0,
+    "subscribed": 174877.8,
+    "coupon_rate": 8.0,
+    "maturity": "2026-03-20",
+    "nominal": 100,
+    "open_date": "2025-03-10",
+    "close_date": "2025-03-19",
+    "issue_date": "2025-03-20",
+    "coupon_dates": [
+     "2025-09-20",
+     "2026-03-20"
+    ]
+   },
+   {
+    "isin": "MD4004001823",
+    "term_years": 2,
+    "announced": 75000.0,
+    "subscribed": 71224.7,
+    "coupon_rate": 8.15,
+    "maturity": "2027-03-20",
+    "nominal": 100,
+    "open_date": "2025-03-10",
+    "close_date": "2025-03-19",
+    "issue_date": "2025-03-20",
+    "coupon_dates": [
+     "2025-09-20",
+     "2026-03-20",
+     "2026-09-20",
+     "2027-03-20"
+    ]
+   },
+   {
+    "isin": "MD4004001856",
+    "term_years": 2,
+    "announced": 25000.0,
+    "subscribed": 41332.4,
+    "coupon_rate": 7.8,
+    "maturity": "2027-05-02",
+    "nominal": 100,
+    "open_date": "2025-04-21",
+    "close_date": "2025-04-30",
+    "issue_date": "2025-05-02",
+    "coupon_dates": [
+     "2025-11-02",
+     "2026-05-02",
+     "2026-11-02",
+     "2027-05-02"
+    ]
+   },
+   {
+    "isin": "MD4004001864",
+    "term_years": 3,
+    "announced": 25000.0,
+    "subscribed": 32803.3,
+    "coupon_rate": 8.0,
+    "maturity": "2028-05-02",
+    "nominal": 100,
+    "open_date": "2025-04-21",
+    "close_date": "2025-04-30",
+    "issue_date": "2025-05-02",
+    "coupon_dates": [
+     "2025-11-02",
+     "2026-05-02",
+     "2026-11-02",
+     "2027-05-02",
+     "2027-11-02",
+     "2028-05-02"
+    ]
+   },
+   {
+    "isin": "MD4004001880",
+    "term_years": 2,
+    "announced": 25000.0,
+    "subscribed": 26781.0,
+    "coupon_rate": 7.6,
+    "maturity": "2027-05-29",
+    "nominal": 100,
+    "open_date": "2025-05-19",
+    "close_date": "2025-05-28",
+    "issue_date": "2025-05-29",
+    "coupon_dates": [
+     "2025-11-29",
+     "2026-05-29",
+     "2026-11-29",
+     "2027-05-29"
+    ]
+   },
+   {
+    "isin": "MD4004001898",
+    "term_years": 3,
+    "announced": 25000.0,
+    "subscribed": 13322.4,
+    "coupon_rate": 7.8,
+    "maturity": "2028-05-29",
+    "nominal": 100,
+    "open_date": "2025-05-19",
+    "close_date": "2025-05-28",
+    "issue_date": "2025-05-29",
+    "coupon_dates": [
+     "2025-11-29",
+     "2026-05-29",
+     "2026-11-29",
+     "2027-05-29",
+     "2027-11-29",
+     "2028-05-29"
+    ]
+   },
+   {
+    "isin": "MD4004001914",
+    "term_years": 2,
+    "announced": 25000.0,
+    "subscribed": 13832.9,
+    "coupon_rate": 7.0,
+    "maturity": "2027-06-26",
+    "nominal": 100,
+    "open_date": "2025-06-16",
+    "close_date": "2025-06-25",
+    "issue_date": "2025-06-26",
+    "coupon_dates": [
+     "2025-12-26",
+     "2026-06-26",
+     "2026-12-26",
+     "2027-06-26"
+    ]
+   },
+   {
+    "isin": "MD4004001922",
+    "term_years": 3,
+    "announced": 25000.0,
+    "subscribed": 8398.3,
+    "coupon_rate": 7.3,
+    "maturity": "2028-06-26",
+    "nominal": 100,
+    "open_date": "2025-06-16",
+    "close_date": "2025-06-25",
+    "issue_date": "2025-06-26",
+    "coupon_dates": [
+     "2025-12-26",
+     "2026-06-26",
+     "2026-12-26",
+     "2027-06-26",
+     "2027-12-26",
+     "2028-06-26"
+    ]
+   },
+   {
+    "isin": "MD4004001955",
+    "term_years": 2,
+    "announced": 25000.0,
+    "subscribed": 11834.0,
+    "coupon_rate": 6.7,
+    "maturity": "2027-07-31",
+    "nominal": 100,
+    "open_date": "2025-07-21",
+    "close_date": "2025-07-30",
+    "issue_date": "2025-07-31",
+    "coupon_dates": [
+     "2026-01-31",
+     "2026-07-31",
+     "2027-01-31",
+     "2027-07-31"
+    ]
+   },
+   {
+    "isin": "MD4004001963",
+    "term_years": 3,
+    "announced": 25000.0,
+    "subscribed": 6171.5,
+    "coupon_rate": 6.9,
+    "maturity": "2028-07-31",
+    "nominal": 100,
+    "open_date": "2025-07-21",
+    "close_date": "2025-07-30",
+    "issue_date": "2025-07-31",
+    "coupon_dates": [
+     "2026-01-31",
+     "2026-07-31",
+     "2027-01-31",
+     "2027-07-31",
+     "2028-01-31",
+     "2028-07-31"
+    ]
+   },
+   {
+    "isin": "MD4004001989",
+    "term_years": 3,
+    "announced": 25000.0,
+    "subscribed": 4219.6,
+    "coupon_rate": 6.8,
+    "maturity": "2028-08-28",
+    "nominal": 100,
+    "open_date": "2025-08-18",
+    "close_date": "2025-08-27",
+    "issue_date": "2025-08-28",
+    "coupon_dates": [
+     "2026-02-28",
+     "2026-08-28",
+     "2027-02-28",
+     "2027-08-28",
+     "2028-02-28",
+     "2028-08-28"
+    ]
+   },
+   {
+    "isin": "MD4004001997",
+    "term_years": 4,
+    "announced": 25000.0,
+    "subscribed": 3850.9,
+    "coupon_rate": 7.0,
+    "maturity": "2029-08-28",
+    "nominal": 100,
+    "open_date": "2025-08-18",
+    "close_date": "2025-08-27",
+    "issue_date": "2025-08-28",
+    "coupon_dates": [
+     "2026-02-28",
+     "2026-08-28",
+     "2027-02-28",
+     "2027-08-28",
+     "2028-02-28",
+     "2028-08-28",
+     "2029-02-28",
+     "2029-08-28"
+    ]
+   },
+   {
+    "isin": "MD4004002011",
+    "term_years": 2,
+    "announced": 25000.0,
+    "subscribed": 10954.6,
+    "coupon_rate": 6.6,
+    "maturity": "2027-09-18",
+    "nominal": 100,
+    "open_date": "2025-09-08",
+    "close_date": "2025-09-17",
+    "issue_date": "2025-09-18",
+    "coupon_dates": [
+     "2026-03-18",
+     "2026-09-18",
+     "2027-03-18",
+     "2027-09-18"
+    ]
+   },
+   {
+    "isin": "MD4004002029",
+    "term_years": 4,
+    "announced": 25000.0,
+    "subscribed": 3695.3,
+    "coupon_rate": 6.9,
+    "maturity": "2029-09-18",
+    "nominal": 100,
+    "open_date": "2025-09-08",
+    "close_date": "2025-09-17",
+    "issue_date": "2025-09-18",
+    "coupon_dates": [
+     "2026-03-18",
+     "2026-09-18",
+     "2027-03-18",
+     "2027-09-18",
+     "2028-03-18",
+     "2028-09-18",
+     "2029-03-18",
+     "2029-09-18"
+    ]
+   },
+   {
+    "isin": "MD4004002037",
+    "term_years": 2,
+    "announced": 25000.0,
+    "subscribed": 21704.5,
+    "coupon_rate": 6.8,
+    "maturity": "2027-10-16",
+    "nominal": 100,
+    "open_date": "2025-10-06",
+    "close_date": "2025-10-15",
+    "issue_date": "2025-10-16",
+    "coupon_dates": [
+     "2026-04-16",
+     "2026-10-16",
+     "2027-04-16",
+     "2027-10-16"
+    ]
+   },
+   {
+    "isin": "MD4004002045",
+    "term_years": 3,
+    "announced": 25000.0,
+    "subscribed": 6810.3,
+    "coupon_rate": 7.0,
+    "maturity": "2028-10-16",
+    "nominal": 100,
+    "open_date": "2025-10-06",
+    "close_date": "2025-10-15",
+    "issue_date": "2025-10-16",
+    "coupon_dates": [
+     "2026-04-16",
+     "2026-10-16",
+     "2027-04-16",
+     "2027-10-16",
+     "2028-04-16",
+     "2028-10-16"
+    ]
+   },
+   {
+    "isin": "MD4004002078",
+    "term_years": 3,
+    "announced": 25000.0,
+    "subscribed": 15946.8,
+    "coupon_rate": 7.15,
+    "maturity": "2028-11-13",
+    "nominal": 100,
+    "open_date": "2025-11-03",
+    "close_date": "2025-11-12",
+    "issue_date": "2025-11-13",
+    "coupon_dates": [
+     "2026-05-13",
+     "2026-11-13",
+     "2027-05-13",
+     "2027-11-13",
+     "2028-05-13",
+     "2028-11-13"
+    ]
+   },
+   {
+    "isin": "MD4004002086",
+    "term_years": 4,
+    "announced": 25000.0,
+    "subscribed": 6058.1,
+    "coupon_rate": 7.3,
+    "maturity": "2029-11-13",
+    "nominal": 100,
+    "open_date": "2025-11-03",
+    "close_date": "2025-11-12",
+    "issue_date": "2025-11-13",
+    "coupon_dates": [
+     "2026-05-13",
+     "2026-11-13",
+     "2027-05-13",
+     "2027-11-13",
+     "2028-05-13",
+     "2028-11-13",
+     "2029-05-13",
+     "2029-11-13"
+    ]
+   },
+   {
+    "isin": "MD4004002094",
+    "term_years": 2,
+    "announced": 25000.0,
+    "subscribed": 44579.9,
+    "coupon_rate": 7.1,
+    "maturity": "2027-12-11",
+    "nominal": 100,
+    "open_date": "2025-12-01",
+    "close_date": "2025-12-10",
+    "issue_date": "2025-12-11",
+    "coupon_dates": [
+     "2026-06-11",
+     "2026-12-11",
+     "2027-06-11",
+     "2027-12-11"
+    ]
+   },
+   {
+    "isin": "MD4004002102",
+    "term_years": 4,
+    "announced": 25000.0,
+    "subscribed": 6934.5,
+    "coupon_rate": 7.35,
+    "maturity": "2029-12-11",
+    "nominal": 100,
+    "open_date": "2025-12-01",
+    "close_date": "2025-12-10",
+    "issue_date": "2025-12-11",
+    "coupon_dates": [
+     "2026-06-11",
+     "2026-12-11",
+     "2027-06-11",
+     "2027-12-11",
+     "2028-06-11",
+     "2028-12-11",
+     "2029-06-11",
+     "2029-12-11"
+    ]
+   },
+   {
+    "isin": "MD4004002128",
+    "term_years": 1,
+    "announced": 50000.0,
+    "subscribed": 140753.9,
+    "coupon_rate": 7.0,
+    "maturity": "2027-01-22",
+    "nominal": 100,
+    "open_date": "2026-01-12",
+    "close_date": "2026-01-21",
+    "issue_date": "2026-01-22",
+    "coupon_dates": [
+     "2026-07-22",
+     "2027-01-22"
+    ]
+   },
+   {
+    "isin": "MD4004002136",
+    "term_years": 4,
+    "announced": 35000.0,
+    "subscribed": 11226.1,
+    "coupon_rate": 7.35,
+    "maturity": "2030-01-22",
+    "nominal": 100,
+    "open_date": "2026-01-12",
+    "close_date": "2026-01-21",
+    "issue_date": "2026-01-22",
+    "coupon_dates": [
+     "2026-07-22",
+     "2027-01-22",
+     "2027-07-22",
+     "2028-01-22",
+     "2028-07-22",
+     "2029-01-22",
+     "2029-07-22",
+     "2030-01-22"
+    ]
+   },
+   {
+    "isin": "MD4004002169",
+    "term_years": 2,
+    "announced": 50000.0,
+    "subscribed": 32808.4,
+    "coupon_rate": 7.05,
+    "maturity": "2028-02-19",
+    "nominal": 100,
+    "open_date": "2026-02-09",
+    "close_date": "2026-02-18",
+    "issue_date": "2026-02-19",
+    "coupon_dates": [
+     "2026-08-19",
+     "2027-02-19",
+     "2027-08-19",
+     "2028-02-19"
+    ]
+   },
+   {
+    "isin": "MD4004002177",
+    "term_years": 3,
+    "announced": 35000.0,
+    "subscribed": 8340.1,
+    "coupon_rate": 7.15,
+    "maturity": "2029-02-19",
+    "nominal": 100,
+    "open_date": "2026-02-09",
+    "close_date": "2026-02-18",
+    "issue_date": "2026-02-19",
+    "coupon_dates": [
+     "2026-08-19",
+     "2027-02-19",
+     "2027-08-19",
+     "2028-02-19",
+     "2028-08-19",
+     "2029-02-19"
+    ]
+   },
+   {
+    "isin": "MD4004002193",
+    "term_years": 2,
+    "announced": 50000.0,
+    "subscribed": 24324.3,
+    "coupon_rate": 7.05,
+    "maturity": "2028-03-19",
+    "nominal": 100,
+    "open_date": "2026-03-09",
+    "close_date": "2026-03-18",
+    "issue_date": "2026-03-19",
+    "coupon_dates": [
+     "2026-09-19",
+     "2027-03-19",
+     "2027-09-19",
+     "2028-03-19"
+    ]
+   },
+   {
+    "isin": "MD4004002201",
+    "term_years": 4,
+    "announced": 35000.0,
+    "subscribed": 6061.0,
+    "coupon_rate": 7.35,
+    "maturity": "2030-03-19",
+    "nominal": 100,
+    "open_date": "2026-03-09",
+    "close_date": "2026-03-18",
+    "issue_date": "2026-03-19",
+    "coupon_dates": [
+     "2026-09-19",
+     "2027-03-19",
+     "2027-09-19",
+     "2028-03-19",
+     "2028-09-19",
+     "2029-03-19",
+     "2029-09-19",
+     "2030-03-19"
+    ]
+   },
+   {
+    "isin": "MD4004002235",
+    "term_years": 1,
+    "announced": 30000.0,
+    "subscribed": 101850.3,
+    "coupon_rate": 6.95,
+    "maturity": "2027-04-23",
+    "nominal": 100,
+    "open_date": "2026-04-13",
+    "close_date": "2026-04-22",
+    "issue_date": "2026-04-23",
+    "coupon_dates": [
+     "2026-10-23",
+     "2027-04-23"
+    ]
+   },
+   {
+    "isin": "MD4004002243",
+    "term_years": 2,
+    "announced": 25000.0,
+    "subscribed": 18063.1,
+    "coupon_rate": 7.05,
+    "maturity": "2028-04-23",
+    "nominal": 100,
+    "open_date": "2026-04-13",
+    "close_date": "2026-04-22",
+    "issue_date": "2026-04-23",
+    "coupon_dates": [
+     "2026-10-23",
+     "2027-04-23",
+     "2027-10-23",
+     "2028-04-23"
+    ]
+   },
+   {
+    "isin": "MD4004002250",
+    "term_years": 3,
+    "announced": 15000.0,
+    "subscribed": 4978.1,
+    "coupon_rate": 7.15,
+    "maturity": "2029-04-23",
+    "nominal": 100,
+    "open_date": "2026-04-13",
+    "close_date": "2026-04-22",
+    "issue_date": "2026-04-23",
+    "coupon_dates": [
+     "2026-10-23",
+     "2027-04-23",
+     "2027-10-23",
+     "2028-04-23",
+     "2028-10-23",
+     "2029-04-23"
+    ]
+   },
+   {
+    "isin": "MD4004002268",
+    "term_years": 4,
+    "announced": 15000.0,
+    "subscribed": 6672.2,
+    "coupon_rate": 7.35,
+    "maturity": "2030-04-23",
+    "nominal": 100,
+    "open_date": "2026-04-13",
+    "close_date": "2026-04-22",
+    "issue_date": "2026-04-23",
+    "coupon_dates": [
+     "2026-10-23",
+     "2027-04-23",
+     "2027-10-23",
+     "2028-04-23",
+     "2028-10-23",
+     "2029-04-23",
+     "2029-10-23",
+     "2030-04-23"
+    ]
+   },
+   {
+    "isin": "MD4004002276",
+    "term_years": 1,
+    "announced": 20000.0,
+    "subscribed": 28925.2,
+    "coupon_rate": 6.95,
+    "maturity": "2027-05-18",
+    "nominal": 100,
+    "open_date": "2026-05-04",
+    "close_date": "2026-05-17",
+    "issue_date": "2026-05-18",
+    "coupon_dates": [
+     "2026-11-18",
+     "2027-05-18"
+    ]
+   },
+   {
+    "isin": "MD4004002284",
+    "term_years": 2,
+    "announced": 10000.0,
+    "subscribed": 4317.6,
+    "coupon_rate": 7.05,
+    "maturity": "2028-05-18",
+    "nominal": 100,
+    "open_date": "2026-05-04",
+    "close_date": "2026-05-17",
+    "issue_date": "2026-05-18",
+    "coupon_dates": [
+     "2026-11-18",
+     "2027-05-18",
+     "2027-11-18",
+     "2028-05-18"
+    ]
+   },
+   {
+    "isin": "MD4004002292",
+    "term_years": 3,
+    "announced": 5000.0,
+    "subscribed": 782.0,
+    "coupon_rate": 7.15,
+    "maturity": "2029-05-18",
+    "nominal": 100,
+    "open_date": "2026-05-04",
+    "close_date": "2026-05-17",
+    "issue_date": "2026-05-18",
+    "coupon_dates": [
+     "2026-11-18",
+     "2027-05-18",
+     "2027-11-18",
+     "2028-05-18",
+     "2028-11-18",
+     "2029-05-18"
+    ]
+   },
+   {
+    "isin": "MD4004002300",
+    "term_years": 4,
+    "announced": 5000.0,
+    "subscribed": 2299.3,
+    "coupon_rate": 7.35,
+    "maturity": "2030-05-18",
+    "nominal": 100,
+    "open_date": "2026-05-04",
+    "close_date": "2026-05-17",
+    "issue_date": "2026-05-18",
+    "coupon_dates": [
+     "2026-11-18",
+     "2027-05-18",
+     "2027-11-18",
+     "2028-05-18",
+     "2028-11-18",
+     "2029-05-18",
+     "2029-11-18",
+     "2030-05-18"
+    ]
+   },
+   {
+    "isin": "MD4004002326",
+    "term_years": 1,
+    "announced": 20000.0,
+    "subscribed": 38987.2,
+    "coupon_rate": 7.45,
+    "maturity": "2027-06-02",
+    "nominal": 100,
+    "open_date": "2026-05-18",
+    "close_date": "2026-06-01",
+    "issue_date": "2026-06-02",
+    "coupon_dates": [
+     "2026-12-02",
+     "2027-06-02"
+    ]
+   },
+   {
+    "isin": "MD4004002334",
+    "term_years": 2,
+    "announced": 10000.0,
+    "subscribed": 3517.4,
+    "coupon_rate": 7.55,
+    "maturity": "2028-06-02",
+    "nominal": 100,
+    "open_date": "2026-05-18",
+    "close_date": "2026-06-01",
+    "issue_date": "2026-06-02",
+    "coupon_dates": [
+     "2026-12-02",
+     "2027-06-02",
+     "2027-12-02",
+     "2028-06-02"
+    ]
+   },
+   {
+    "isin": "MD4004002342",
+    "term_years": 3,
+    "announced": 5000.0,
+    "subscribed": 621.2,
+    "coupon_rate": 7.65,
+    "maturity": "2029-06-02",
+    "nominal": 100,
+    "open_date": "2026-05-18",
+    "close_date": "2026-06-01",
+    "issue_date": "2026-06-02",
+    "coupon_dates": [
+     "2026-12-02",
+     "2027-06-02",
+     "2027-12-02",
+     "2028-06-02",
+     "2028-12-02",
+     "2029-06-02"
+    ]
+   },
+   {
+    "isin": "MD4004002359",
+    "term_years": 4,
+    "announced": 5000.0,
+    "subscribed": 4364.7,
+    "coupon_rate": 7.85,
+    "maturity": "2030-06-02",
+    "nominal": 100,
+    "open_date": "2026-05-18",
+    "close_date": "2026-06-01",
+    "issue_date": "2026-06-02",
+    "coupon_dates": [
+     "2026-12-02",
+     "2027-06-02",
+     "2027-12-02",
+     "2028-06-02",
+     "2028-12-02",
+     "2029-06-02",
+     "2029-12-02",
+     "2030-06-02"
+    ]
+   },
+   {
+    "isin": "MD4004002367",
+    "term_years": 1,
+    "announced": 20000.0,
+    "subscribed": 31194.8,
+    "coupon_rate": 7.45,
+    "maturity": "2027-06-15",
+    "nominal": 100,
+    "open_date": "2026-06-02",
+    "close_date": "2026-06-14",
+    "issue_date": "2026-06-15",
+    "coupon_dates": [
+     "2026-12-15",
+     "2027-06-15"
+    ]
+   },
+   {
+    "isin": "MD4004002375",
+    "term_years": 2,
+    "announced": 10000.0,
+    "subscribed": 3760.9,
+    "coupon_rate": 7.55,
+    "maturity": "2028-06-15",
+    "nominal": 100,
+    "open_date": "2026-06-02",
+    "close_date": "2026-06-14",
+    "issue_date": "2026-06-15",
+    "coupon_dates": [
+     "2026-12-15",
+     "2027-06-15",
+     "2027-12-15",
+     "2028-06-15"
+    ]
+   },
+   {
+    "isin": "MD4004002383",
+    "term_years": 3,
+    "announced": 5000.0,
+    "subscribed": 950.1,
+    "coupon_rate": 7.65,
+    "maturity": "2029-06-15",
+    "nominal": 100,
+    "open_date": "2026-06-02",
+    "close_date": "2026-06-14",
+    "issue_date": "2026-06-15",
+    "coupon_dates": [
+     "2026-12-15",
+     "2027-06-15",
+     "2027-12-15",
+     "2028-06-15",
+     "2028-12-15",
+     "2029-06-15"
+    ]
+   },
+   {
+    "isin": "MD4004002391",
+    "term_years": 4,
+    "announced": 5000.0,
+    "subscribed": 3735.9,
+    "coupon_rate": 7.85,
+    "maturity": "2030-06-15",
+    "nominal": 100,
+    "open_date": "2026-06-02",
+    "close_date": "2026-06-14",
+    "issue_date": "2026-06-15",
+    "coupon_dates": [
+     "2026-12-15",
+     "2027-06-15",
+     "2027-12-15",
+     "2028-06-15",
+     "2028-12-15",
+     "2029-06-15",
+     "2029-12-15",
+     "2030-06-15"
+    ]
+   },
+   {
+    "isin": "MD4004002409",
+    "term_years": 1,
+    "announced": 20000.0,
+    "subscribed": 21123.7,
+    "coupon_rate": 7.45,
+    "maturity": "2027-06-29",
+    "nominal": 100,
+    "open_date": "2026-06-15",
+    "close_date": "2026-06-28",
+    "issue_date": "2026-06-29",
+    "coupon_dates": [
+     "2026-12-29",
+     "2027-06-29"
+    ]
+   },
+   {
+    "isin": "MD4004002417",
+    "term_years": 2,
+    "announced": 10000.0,
+    "subscribed": 1246.2,
+    "coupon_rate": 7.55,
+    "maturity": "2028-06-29",
+    "nominal": 100,
+    "open_date": "2026-06-15",
+    "close_date": "2026-06-28",
+    "issue_date": "2026-06-29",
+    "coupon_dates": [
+     "2026-12-29",
+     "2027-06-29",
+     "2027-12-29",
+     "2028-06-29"
+    ]
+   },
+   {
+    "isin": "MD4004002425",
+    "term_years": 3,
+    "announced": 5000.0,
+    "subscribed": 601.5,
+    "coupon_rate": 7.65,
+    "maturity": "2029-06-29",
+    "nominal": 100,
+    "open_date": "2026-06-15",
+    "close_date": "2026-06-28",
+    "issue_date": "2026-06-29",
+    "coupon_dates": [
+     "2026-12-29",
+     "2027-06-29",
+     "2027-12-29",
+     "2028-06-29",
+     "2028-12-29",
+     "2029-06-29"
+    ]
+   },
+   {
+    "isin": "MD4004002433",
+    "term_years": 4,
+    "announced": 5000.0,
+    "subscribed": 1125.4,
+    "coupon_rate": 7.85,
+    "maturity": "2030-06-29",
+    "nominal": 100,
+    "open_date": "2026-06-15",
+    "close_date": "2026-06-28",
+    "issue_date": "2026-06-29",
+    "coupon_dates": [
+     "2026-12-29",
+     "2027-06-29",
+     "2027-12-29",
+     "2028-06-29",
+     "2028-12-29",
+     "2029-06-29",
+     "2029-12-29",
+     "2030-06-29"
+    ]
+   },
+   {
+    "isin": "MD4004002441",
+    "term_years": 1,
+    "announced": 20000.0,
+    "subscribed": 19163.9,
+    "coupon_rate": 7.45,
+    "maturity": "2027-07-14",
+    "nominal": 100,
+    "open_date": "2026-06-29",
+    "close_date": "2026-07-13",
+    "issue_date": "2026-07-14",
+    "coupon_dates": [
+     "2027-01-14",
+     "2027-07-14"
+    ]
+   },
+   {
+    "isin": "MD4004002458",
+    "term_years": 2,
+    "announced": 10000.0,
+    "subscribed": 2879.1,
+    "coupon_rate": 7.55,
+    "maturity": "2028-07-14",
+    "nominal": 100,
+    "open_date": "2026-06-29",
+    "close_date": "2026-07-13",
+    "issue_date": "2026-07-14",
+    "coupon_dates": [
+     "2027-01-14",
+     "2027-07-14",
+     "2028-01-14",
+     "2028-07-14"
+    ]
+   },
+   {
+    "isin": "MD4004002466",
+    "term_years": 3,
+    "announced": 5000.0,
+    "subscribed": 730.6,
+    "coupon_rate": 7.65,
+    "maturity": "2029-07-14",
+    "nominal": 100,
+    "open_date": "2026-06-29",
+    "close_date": "2026-07-13",
+    "issue_date": "2026-07-14",
+    "coupon_dates": [
+     "2027-01-14",
+     "2027-07-14",
+     "2028-01-14",
+     "2028-07-14",
+     "2029-01-14",
+     "2029-07-14"
+    ]
+   },
+   {
+    "isin": "MD4004002474",
+    "term_years": 4,
+    "announced": 5000.0,
+    "subscribed": 2968.4,
+    "coupon_rate": 7.85,
+    "maturity": "2030-07-14",
+    "nominal": 100,
+    "open_date": "2026-06-29",
+    "close_date": "2026-07-13",
+    "issue_date": "2026-07-14",
+    "coupon_dates": [
+     "2027-01-14",
+     "2027-07-14",
+     "2028-01-14",
+     "2028-07-14",
+     "2029-01-14",
+     "2029-07-14",
+     "2030-01-14",
+     "2030-07-14"
+    ]
+   },
+   {
+    "isin": "MD4004002508",
+    "term_years": 1,
+    "announced": 20000.0,
+    "subscribed": 20028.7,
+    "coupon_rate": 7.45,
+    "maturity": "2027-07-28",
+    "nominal": 100,
+    "open_date": "2026-07-13",
+    "close_date": "2026-07-27",
+    "issue_date": "2026-07-28",
+    "coupon_dates": [
+     "2027-01-28",
+     "2027-07-28"
+    ]
+   },
+   {
+    "isin": "MD4004002516",
+    "term_years": 2,
+    "announced": 10000.0,
+    "subscribed": 2471.7,
+    "coupon_rate": 7.55,
+    "maturity": "2028-07-28",
+    "nominal": 100,
+    "open_date": "2026-07-13",
+    "close_date": "2026-07-27",
+    "issue_date": "2026-07-28",
+    "coupon_dates": [
+     "2027-01-28",
+     "2027-07-28",
+     "2028-01-28",
+     "2028-07-28"
+    ]
+   },
+   {
+    "isin": "MD4004002524",
+    "term_years": 3,
+    "announced": 5000.0,
+    "subscribed": 1378.0,
+    "coupon_rate": 7.65,
+    "maturity": "2029-07-28",
+    "nominal": 100,
+    "open_date": "2026-07-13",
+    "close_date": "2026-07-27",
+    "issue_date": "2026-07-28",
+    "coupon_dates": [
+     "2027-01-28",
+     "2027-07-28",
+     "2028-01-28",
+     "2028-07-28",
+     "2029-01-28",
+     "2029-07-28"
+    ]
+   },
+   {
+    "isin": "MD4004002532",
+    "term_years": 4,
+    "announced": 5000.0,
+    "subscribed": 2826.1,
+    "coupon_rate": 7.85,
+    "maturity": "2030-07-28",
+    "nominal": 100,
+    "open_date": "2026-07-13",
+    "close_date": "2026-07-27",
+    "issue_date": "2026-07-28",
+    "coupon_dates": [
+     "2027-01-28",
+     "2027-07-28",
+     "2028-01-28",
+     "2028-07-28",
+     "2029-01-28",
+     "2029-07-28",
+     "2030-01-28",
+     "2030-07-28"
+    ]
+   },
+   {
+    "isin": "MD4004002540",
+    "term_years": 1,
+    "announced": 20000.0,
+    "subscribed": 23711.2,
+    "coupon_rate": 7.45,
+    "maturity": "2027-08-11",
+    "nominal": 100,
+    "open_date": "2026-07-27",
+    "close_date": "2026-08-10",
+    "issue_date": "2026-08-11",
+    "coupon_dates": [
+     "2027-02-11",
+     "2027-08-11"
+    ]
+   },
+   {
+    "isin": "MD4004002557",
+    "term_years": 2,
+    "announced": 10000.0,
+    "subscribed": 2576.5,
+    "coupon_rate": 7.55,
+    "maturity": "2028-08-11",
+    "nominal": 100,
+    "open_date": "2026-07-27",
+    "close_date": "2026-08-10",
+    "issue_date": "2026-08-11",
+    "coupon_dates": [
+     "2027-02-11",
+     "2027-08-11",
+     "2028-02-11",
+     "2028-08-11"
+    ]
+   },
+   {
+    "isin": "MD4004002565",
+    "term_years": 3,
+    "announced": 5000.0,
+    "subscribed": 451.2,
+    "coupon_rate": 7.65,
+    "maturity": "2029-08-11",
+    "nominal": 100,
+    "open_date": "2026-07-27",
+    "close_date": "2026-08-10",
+    "issue_date": "2026-08-11",
+    "coupon_dates": [
+     "2027-02-11",
+     "2027-08-11",
+     "2028-02-11",
+     "2028-08-11",
+     "2029-02-11",
+     "2029-08-11"
+    ]
+   },
+   {
+    "isin": "MD4004002573",
+    "term_years": 4,
+    "announced": 5000.0,
+    "subscribed": 8502.0,
+    "coupon_rate": 7.85,
+    "maturity": "2030-08-11",
+    "nominal": 100,
+    "open_date": "2026-07-27",
+    "close_date": "2026-08-10",
+    "issue_date": "2026-08-11",
+    "coupon_dates": [
+     "2027-02-11",
+     "2027-08-11",
+     "2028-02-11",
+     "2028-08-11",
+     "2029-02-11",
+     "2029-08-11",
+     "2030-02-11",
+     "2030-08-11"
+    ]
+   },
+   {
+    "isin": "MD4004002581",
+    "term_years": 1,
+    "announced": 20000.0,
+    "subscribed": 20495.6,
+    "coupon_rate": 7.45,
+    "maturity": "2027-08-25",
+    "nominal": 100,
+    "open_date": "2026-08-10",
+    "close_date": "2026-08-24",
+    "issue_date": "2026-08-25",
+    "coupon_dates": [
+     "2027-02-25",
+     "2027-08-25"
+    ]
+   },
+   {
+    "isin": "MD4004002599",
+    "term_years": 2,
+    "announced": 10000.0,
+    "subscribed": 1559.8,
+    "coupon_rate": 7.55,
+    "maturity": "2028-08-25",
+    "nominal": 100,
+    "open_date": "2026-08-10",
+    "close_date": "2026-08-24",
+    "issue_date": "2026-08-25",
+    "coupon_dates": [
+     "2027-02-25",
+     "2027-08-25",
+     "2028-02-25",
+     "2028-08-25"
+    ]
+   },
+   {
+    "isin": "MD4004002607",
+    "term_years": 3,
+    "announced": 5000.0,
+    "subscribed": 210.6,
+    "coupon_rate": 7.65,
+    "maturity": "2029-08-25",
+    "nominal": 100,
+    "open_date": "2026-08-10",
+    "close_date": "2026-08-24",
+    "issue_date": "2026-08-25",
+    "coupon_dates": [
+     "2027-02-25",
+     "2027-08-25",
+     "2028-02-25",
+     "2028-08-25",
+     "2029-02-25",
+     "2029-08-25"
+    ]
+   },
+   {
+    "isin": "MD4004002615",
+    "term_years": 4,
+    "announced": 5000.0,
+    "subscribed": 2507.4,
+    "coupon_rate": 7.85,
+    "maturity": "2030-08-25",
+    "nominal": 100,
+    "open_date": "2026-08-10",
+    "close_date": "2026-08-24",
+    "issue_date": "2026-08-25",
+    "coupon_dates": [
+     "2027-02-25",
+     "2027-08-25",
+     "2028-02-25",
+     "2028-08-25",
+     "2029-02-25",
+     "2029-08-25",
+     "2030-02-25",
+     "2030-08-25"
+    ]
+   },
+   {
+    "isin": "MD4004002631",
+    "term_years": 1,
+    "announced": 20000.0,
+    "subscribed": 15237.8,
+    "coupon_rate": 7.45,
+    "maturity": "2027-09-08",
+    "nominal": 100,
+    "open_date": "2026-08-24",
+    "close_date": "2026-09-07",
+    "issue_date": "2026-09-08",
+    "coupon_dates": [
+     "2027-03-08",
+     "2027-09-08"
+    ]
+   },
+   {
+    "isin": "MD4004002649",
+    "term_years": 2,
+    "announced": 10000.0,
+    "subscribed": 1756.5,
+    "coupon_rate": 7.55,
+    "maturity": "2028-09-08",
+    "nominal": 100,
+    "open_date": "2026-08-24",
+    "close_date": "2026-09-07",
+    "issue_date": "2026-09-08",
+    "coupon_dates": [
+     "2027-03-08",
+     "2027-09-08",
+     "2028-03-08",
+     "2028-09-08"
+    ]
+   },
+   {
+    "isin": "MD4004002656",
+    "term_years": 3,
+    "announced": 5000.0,
+    "subscribed": 294.0,
+    "coupon_rate": 7.65,
+    "maturity": "2029-09-08",
+    "nominal": 100,
+    "open_date": "2026-08-24",
+    "close_date": "2026-09-07",
+    "issue_date": "2026-09-08",
+    "coupon_dates": [
+     "2027-03-08",
+     "2027-09-08",
+     "2028-03-08",
+     "2028-09-08",
+     "2029-03-08",
+     "2029-09-08"
+    ]
+   },
+   {
+    "isin": "MD4004002664",
+    "term_years": 4,
+    "announced": 5000.0,
+    "subscribed": 3732.4,
+    "coupon_rate": 7.85,
+    "maturity": "2030-09-08",
+    "nominal": 100,
+    "open_date": "2026-08-24",
+    "close_date": "2026-09-07",
+    "issue_date": "2026-09-08",
+    "coupon_dates": [
+     "2027-03-08",
+     "2027-09-08",
+     "2028-03-08",
+     "2028-09-08",
+     "2029-03-08",
+     "2029-09-08",
+     "2030-03-08",
+     "2030-09-08"
+    ]
+   },
+   {
+    "isin": "MD4004002680",
+    "term_years": 1,
+    "announced": 20000.0,
+    "subscribed": 30921.5,
+    "coupon_rate": 7.45,
+    "maturity": "2027-09-22",
+    "nominal": 100,
+    "open_date": "2026-09-07",
+    "close_date": "2026-09-21",
+    "issue_date": "2026-09-22",
+    "coupon_dates": [
+     "2027-03-22",
+     "2027-09-22"
+    ]
+   },
+   {
+    "isin": "MD4004002698",
+    "term_years": 2,
+    "announced": 10000.0,
+    "subscribed": 3024.0,
+    "coupon_rate": 7.55,
+    "maturity": "2028-09-22",
+    "nominal": 100,
+    "open_date": "2026-09-07",
+    "close_date": "2026-09-21",
+    "issue_date": "2026-09-22",
+    "coupon_dates": [
+     "2027-03-22",
+     "2027-09-22",
+     "2028-03-22",
+     "2028-09-22"
+    ]
+   },
+   {
+    "isin": "MD4004002706",
+    "term_years": 3,
+    "announced": 5000.0,
+    "subscribed": 270.1,
+    "coupon_rate": 7.65,
+    "maturity": "2029-09-22",
+    "nominal": 100,
+    "open_date": "2026-09-07",
+    "close_date": "2026-09-21",
+    "issue_date": "2026-09-22",
+    "coupon_dates": [
+     "2027-03-22",
+     "2027-09-22",
+     "2028-03-22",
+     "2028-09-22",
+     "2029-03-22",
+     "2029-09-22"
+    ]
+   },
+   {
+    "isin": "MD4004002714",
+    "term_years": 4,
+    "announced": 5000.0,
+    "subscribed": 2956.4,
+    "coupon_rate": 7.85,
+    "maturity": "2030-09-22",
+    "nominal": 100,
+    "open_date": "2026-09-07",
+    "close_date": "2026-09-21",
+    "issue_date": "2026-09-22",
+    "coupon_dates": [
+     "2027-03-22",
+     "2027-09-22",
+     "2028-03-22",
+     "2028-09-22",
+     "2029-03-22",
+     "2029-09-22",
+     "2030-03-22",
+     "2030-09-22"
+    ]
+   },
+   {
+    "isin": "MD4004002722",
+    "term_years": 1,
+    "announced": 20000.0,
+    "subscribed": 29525.0,
+    "coupon_rate": 7.45,
+    "maturity": "2027-10-06",
+    "nominal": 100,
+    "open_date": "2026-09-21",
+    "close_date": "2026-10-05",
+    "issue_date": "2026-10-06",
+    "coupon_dates": [
+     "2027-04-06",
+     "2027-10-06"
+    ]
+   },
+   {
+    "isin": "MD4004002730",
+    "term_years": 2,
+    "announced": 10000.0,
+    "subscribed": 7001.4,
+    "coupon_rate": 7.55,
+    "maturity": "2028-10-06",
+    "nominal": 100,
+    "open_date": "2026-09-21",
+    "close_date": "2026-10-05",
+    "issue_date": "2026-10-06",
+    "coupon_dates": [
+     "2027-04-06",
+     "2027-10-06",
+     "2028-04-06",
+     "2028-10-06"
+    ]
+   },
+   {
+    "isin": "MD4004002748",
+    "term_years": 3,
+    "announced": 5000.0,
+    "subscribed": 1389.9,
+    "coupon_rate": 7.65,
+    "maturity": "2029-10-06",
+    "nominal": 100,
+    "open_date": "2026-09-21",
+    "close_date": "2026-10-05",
+    "issue_date": "2026-10-06",
+    "coupon_dates": [
+     "2027-04-06",
+     "2027-10-06",
+     "2028-04-06",
+     "2028-10-06",
+     "2029-04-06",
+     "2029-10-06"
+    ]
+   },
+   {
+    "isin": "MD4004002755",
+    "term_years": 4,
+    "announced": 5000.0,
+    "subscribed": 8224.1,
+    "coupon_rate": 7.85,
+    "maturity": "2030-10-06",
+    "nominal": 100,
+    "open_date": "2026-09-21",
+    "close_date": "2026-10-05",
+    "issue_date": "2026-10-06",
+    "coupon_dates": [
+     "2027-04-06",
+     "2027-10-06",
+     "2028-04-06",
+     "2028-10-06",
+     "2029-04-06",
+     "2029-10-06",
+     "2030-04-06",
+     "2030-10-06"
+    ]
+   },
+   {
+    "isin": "MD4004002789",
+    "term_years": 1,
+    "announced": 20000.0,
+    "subscribed": 28632.2,
+    "coupon_rate": 7.65,
+    "maturity": "2027-10-20",
+    "nominal": 100,
+    "open_date": "2026-10-05",
+    "close_date": "2026-10-19",
+    "issue_date": "2026-10-20",
+    "coupon_dates": [
+     "2027-04-20",
+     "2027-10-20"
+    ]
+   },
+   {
+    "isin": "MD4004002797",
+    "term_years": 2,
+    "announced": 10000.0,
+    "subscribed": 2882.7,
+    "coupon_rate": 7.75,
+    "maturity": "2028-10-20",
+    "nominal": 100,
+    "open_date": "2026-10-05",
+    "close_date": "2026-10-19",
+    "issue_date": "2026-10-20",
+    "coupon_dates": [
+     "2027-04-20",
+     "2027-10-20",
+     "2028-04-20",
+     "2028-10-20"
+    ]
+   },
+   {
+    "isin": "MD4004002805",
+    "term_years": 3,
+    "announced": 5000.0,
+    "subscribed": 544.4,
+    "coupon_rate": 7.85,
+    "maturity": "2029-10-20",
+    "nominal": 100,
+    "open_date": "2026-10-05",
+    "close_date": "2026-10-19",
+    "issue_date": "2026-10-20",
+    "coupon_dates": [
+     "2027-04-20",
+     "2027-10-20",
+     "2028-04-20",
+     "2028-10-20",
+     "2029-04-20",
+     "2029-10-20"
+    ]
+   },
+   {
+    "isin": "MD4004002813",
+    "term_years": 4,
+    "announced": 5000.0,
+    "subscribed": 7158.1,
+    "coupon_rate": 8.05,
+    "maturity": "2030-10-20",
+    "nominal": 100,
+    "open_date": "2026-10-05",
+    "close_date": "2026-10-19",
+    "issue_date": "2026-10-20",
+    "coupon_dates": [
+     "2027-04-20",
+     "2027-10-20",
+     "2028-04-20",
+     "2028-10-20",
+     "2029-04-20",
+     "2029-10-20",
+     "2030-04-20",
+     "2030-10-20"
+    ]
+   },
+   {
+    "isin": "MD4004002821",
+    "term_years": 1,
+    "announced": 20000.0,
+    "subscribed": 14127.1,
+    "coupon_rate": 7.65,
+    "maturity": "2027-11-03",
+    "nominal": 100,
+    "open_date": "2026-10-19",
+    "close_date": "2026-11-02",
+    "issue_date": "2026-11-03",
+    "coupon_dates": [
+     "2027-05-03",
+     "2027-11-03"
+    ]
+   },
+   {
+    "isin": "MD4004002839",
+    "term_years": 2,
+    "announced": 10000.0,
+    "subscribed": 2304.7,
+    "coupon_rate": 7.75,
+    "maturity": "2028-11-03",
+    "nominal": 100,
+    "open_date": "2026-10-19",
+    "close_date": "2026-11-02",
+    "issue_date": "2026-11-03",
+    "coupon_dates": [
+     "2027-05-03",
+     "2027-11-03",
+     "2028-05-03",
+     "2028-11-03"
+    ]
+   },
+   {
+    "isin": "MD4004002847",
+    "term_years": 3,
+    "announced": 5000.0,
+    "subscribed": 204.4,
+    "coupon_rate": 7.85,
+    "maturity": "2029-11-03",
+    "nominal": 100,
+    "open_date": "2026-10-19",
+    "close_date": "2026-11-02",
+    "issue_date": "2026-11-03",
+    "coupon_dates": [
+     "2027-05-03",
+     "2027-11-03",
+     "2028-05-03",
+     "2028-11-03",
+     "2029-05-03",
+     "2029-11-03"
+    ]
+   },
+   {
+    "isin": "MD4004002854",
+    "term_years": 4,
+    "announced": 5000.0,
+    "subscribed": 3485.4,
+    "coupon_rate": 8.05,
+    "maturity": "2030-11-03",
+    "nominal": 100,
+    "open_date": "2026-10-19",
+    "close_date": "2026-11-02",
+    "issue_date": "2026-11-03",
+    "coupon_dates": [
+     "2027-05-03",
+     "2027-11-03",
+     "2028-05-03",
+     "2028-11-03",
+     "2029-05-03",
+     "2029-11-03",
+     "2030-05-03",
+     "2030-11-03"
+    ]
+   },
+   {
+    "isin": "MD4004002862",
+    "term_years": 1,
+    "announced": 20000.0,
+    "subscribed": 9176.2,
+    "coupon_rate": 7.75,
+    "maturity": "2027-11-17",
+    "nominal": 100,
+    "open_date": "2026-11-02",
+    "close_date": "2026-11-16",
+    "issue_date": "2026-11-17",
+    "coupon_dates": [
+     "2027-05-17",
+     "2027-11-17"
+    ]
+   },
+   {
+    "isin": "MD4004002870",
+    "term_years": 2,
+    "announced": 10000.0,
+    "subscribed": 1836.7,
+    "coupon_rate": 7.85,
+    "maturity": "2028-11-17",
+    "nominal": 100,
+    "open_date": "2026-11-02",
+    "close_date": "2026-11-16",
+    "issue_date": "2026-11-17",
+    "coupon_dates": [
+     "2027-05-17",
+     "2027-11-17",
+     "2028-05-17",
+     "2028-11-17"
+    ]
+   },
+   {
+    "isin": "MD4004002888",
+    "term_years": 3,
+    "announced": 5000.0,
+    "subscribed": 355.3,
+    "coupon_rate": 7.95,
+    "maturity": "2029-11-17",
+    "nominal": 100,
+    "open_date": "2026-11-02",
+    "close_date": "2026-11-16",
+    "issue_date": "2026-11-17",
+    "coupon_dates": [
+     "2027-05-17",
+     "2027-11-17",
+     "2028-05-17",
+     "2028-11-17",
+     "2029-05-17",
+     "2029-11-17"
+    ]
+   },
+   {
+    "isin": "MD4004002896",
+    "term_years": 4,
+    "announced": 5000.0,
+    "subscribed": 4389.3,
+    "coupon_rate": 8.15,
+    "maturity": "2030-11-17",
+    "nominal": 100,
+    "open_date": "2026-11-02",
+    "close_date": "2026-11-16",
+    "issue_date": "2026-11-17",
+    "coupon_dates": [
+     "2027-05-17",
+     "2027-11-17",
+     "2028-05-17",
+     "2028-11-17",
+     "2029-05-17",
+     "2029-11-17",
+     "2030-05-17",
+     "2030-11-17"
+    ]
+   },
+   {
+    "isin": "MD4004002912",
+    "term_years": 1,
+    "coupon_rate": 7.85,
+    "nominal": 100,
+    "announced": 20000.0,
+    "open_date": "2026-11-16",
+    "close_date": "2026-11-30",
+    "issue_date": "2026-12-01",
+    "maturity": "2027-12-01",
+    "coupon_dates": [
+     "2027-06-01",
+     "2027-12-01"
+    ]
+   },
+   {
+    "isin": "MD4004002920",
+    "term_years": 2,
+    "coupon_rate": 7.95,
+    "nominal": 100,
+    "announced": 10000.0,
+    "open_date": "2026-11-16",
+    "close_date": "2026-11-30",
+    "issue_date": "2026-12-01",
+    "maturity": "2028-12-01",
+    "coupon_dates": [
+     "2027-06-01",
+     "2027-12-01",
+     "2028-06-01",
+     "2028-12-01"
+    ]
+   },
+   {
+    "isin": "MD4004002938",
+    "term_years": 3,
+    "coupon_rate": 8.05,
+    "nominal": 100,
+    "announced": 5000.0,
+    "open_date": "2026-11-16",
+    "close_date": "2026-11-30",
+    "issue_date": "2026-12-01",
+    "maturity": "2029-12-01",
+    "coupon_dates": [
+     "2027-06-01",
+     "2027-12-01",
+     "2028-06-01",
+     "2028-12-01",
+     "2029-06-01",
+     "2029-12-01"
+    ]
+   },
+   {
+    "isin": "MD4004002946",
+    "term_years": 4,
+    "coupon_rate": 8.25,
+    "nominal": 100,
+    "announced": 5000.0,
+    "open_date": "2026-11-16",
+    "close_date": "2026-11-30",
+    "issue_date": "2026-12-01",
+    "maturity": "2030-12-01",
+    "coupon_dates": [
+     "2027-06-01",
+     "2027-12-01",
+     "2028-06-01",
+     "2028-12-01",
+     "2029-06-01",
+     "2029-12-01",
+     "2030-06-01",
+     "2030-12-01"
+    ]
+   }
+  ],
+  "calendar": [
+   {
+    "open_date": "2026-04-13",
+    "close_date": "2026-04-22",
+    "issue_date": "2026-04-23",
+    "terms": [
+     {
+      "term_years": 1,
+      "announced": 30000.0,
+      "maturity": "2027-04-23"
+     },
+     {
+      "term_years": 2,
+      "announced": 25000.0,
+      "maturity": "2028-04-23"
+     },
+     {
+      "term_years": 3,
+      "announced": 15000.0,
+      "maturity": "2029-04-23"
+     },
+     {
+      "term_years": 4,
+      "announced": 15000.0,
+      "maturity": "2030-04-23"
+     }
+    ]
+   },
+   {
+    "open_date": "2026-05-04",
+    "close_date": "2026-05-17",
+    "issue_date": "2026-05-18",
+    "terms": [
+     {
+      "term_years": 1,
+      "announced": 20000.0,
+      "maturity": "2027-05-18"
+     },
+     {
+      "term_years": 2,
+      "announced": 10000.0,
+      "maturity": "2028-05-18"
+     },
+     {
+      "term_years": 3,
+      "announced": 5000.0,
+      "maturity": "2029-05-18"
+     },
+     {
+      "term_years": 4,
+      "announced": 5000.0,
+      "maturity": "2030-05-18"
+     }
+    ]
+   },
+   {
+    "open_date": "2026-05-18",
+    "close_date": "2026-05-31",
+    "issue_date": "2026-06-01",
+    "terms": [
+     {
+      "term_years": 1,
+      "announced": 20000.0,
+      "maturity": "2027-06-01"
+     },
+     {
+      "term_years": 2,
+      "announced": 10000.0,
+      "maturity": "2028-06-01"
+     },
+     {
+      "term_years": 3,
+      "announced": 5000.0,
+      "maturity": "2029-06-01"
+     },
+     {
+      "term_years": 4,
+      "announced": 5000.0,
+      "maturity": "2030-06-01"
+     }
+    ]
+   },
+   {
+    "open_date": "2026-06-01",
+    "close_date": "2026-06-14",
+    "issue_date": "2026-06-15",
+    "terms": [
+     {
+      "term_years": 1,
+      "announced": 20000.0,
+      "maturity": "2027-06-15"
+     },
+     {
+      "term_years": 2,
+      "announced": 10000.0,
+      "maturity": "2028-06-15"
+     },
+     {
+      "term_years": 3,
+      "announced": 5000.0,
+      "maturity": "2029-06-15"
+     },
+     {
+      "term_years": 4,
+      "announced": 5000.0,
+      "maturity": "2030-06-15"
+     }
+    ]
+   },
+   {
+    "open_date": "2026-06-15",
+    "close_date": "2026-06-28",
+    "issue_date": "2026-06-29",
+    "terms": [
+     {
+      "term_years": 1,
+      "announced": 20000.0,
+      "maturity": "2027-06-29"
+     },
+     {
+      "term_years": 2,
+      "announced": 10000.0,
+      "maturity": "2028-06-29"
+     },
+     {
+      "term_years": 3,
+      "announced": 5000.0,
+      "maturity": "2029-06-29"
+     },
+     {
+      "term_years": 4,
+      "announced": 5000.0,
+      "maturity": "2030-06-29"
+     }
+    ]
+   },
+   {
+    "open_date": "2026-06-29",
+    "close_date": "2026-07-12",
+    "issue_date": "2026-07-13",
+    "terms": [
+     {
+      "term_years": 1,
+      "announced": 20000.0,
+      "maturity": "2027-07-13"
+     },
+     {
+      "term_years": 2,
+      "announced": 10000.0,
+      "maturity": "2028-07-13"
+     },
+     {
+      "term_years": 3,
+      "announced": 5000.0,
+      "maturity": "2029-07-13"
+     },
+     {
+      "term_years": 4,
+      "announced": 5000.0,
+      "maturity": "2030-07-13"
+     }
+    ]
+   },
+   {
+    "open_date": "2026-09-21",
+    "close_date": "2026-10-05",
+    "issue_date": "2026-10-06",
+    "terms": [
+     {
+      "term_years": 1,
+      "announced": 20000.0,
+      "maturity": "2027-10-06"
+     },
+     {
+      "term_years": 2,
+      "announced": 10000.0,
+      "maturity": "2028-10-06"
+     },
+     {
+      "term_years": 3,
+      "announced": 5000.0,
+      "maturity": "2029-10-06"
+     },
+     {
+      "term_years": 4,
+      "announced": 5000.0,
+      "maturity": "2030-10-06"
+     }
+    ]
+   },
+   {
+    "open_date": "2026-10-05",
+    "close_date": "2026-10-19",
+    "issue_date": "2026-10-20",
+    "terms": [
+     {
+      "term_years": 1,
+      "announced": 20000.0,
+      "maturity": "2027-10-20"
+     },
+     {
+      "term_years": 2,
+      "announced": 10000.0,
+      "maturity": "2028-10-20"
+     },
+     {
+      "term_years": 3,
+      "announced": 5000.0,
+      "maturity": "2029-10-20"
+     },
+     {
+      "term_years": 4,
+      "announced": 5000.0,
+      "maturity": "2030-10-20"
+     }
+    ]
+   },
+   {
+    "open_date": "2026-10-19",
+    "close_date": "2026-11-02",
+    "issue_date": "2026-11-03",
+    "terms": [
+     {
+      "term_years": 1,
+      "announced": 20000.0,
+      "maturity": "2027-11-03"
+     },
+     {
+      "term_years": 2,
+      "announced": 10000.0,
+      "maturity": "2028-11-03"
+     },
+     {
+      "term_years": 3,
+      "announced": 5000.0,
+      "maturity": "2029-11-03"
+     },
+     {
+      "term_years": 4,
+      "announced": 5000.0,
+      "maturity": "2030-11-03"
+     }
+    ]
+   },
+   {
+    "open_date": "2026-11-02",
+    "close_date": "2026-11-16",
+    "issue_date": "2026-11-17",
+    "terms": [
+     {
+      "term_years": 1,
+      "announced": 20000.0,
+      "maturity": "2027-11-17"
+     },
+     {
+      "term_years": 2,
+      "announced": 10000.0,
+      "maturity": "2028-11-17"
+     },
+     {
+      "term_years": 3,
+      "announced": 5000.0,
+      "maturity": "2029-11-17"
+     },
+     {
+      "term_years": 4,
+      "announced": 5000.0,
+      "maturity": "2030-11-17"
+     }
+    ]
+   },
+   {
+    "open_date": "2026-11-16",
+    "close_date": "2026-11-30",
+    "issue_date": "2026-12-01",
+    "terms": [
+     {
+      "term_years": 1,
+      "announced": 20000.0,
+      "maturity": "2027-12-01"
+     },
+     {
+      "term_years": 2,
+      "announced": 10000.0,
+      "maturity": "2028-12-01"
+     },
+     {
+      "term_years": 3,
+      "announced": 5000.0,
+      "maturity": "2029-12-01"
+     },
+     {
+      "term_years": 4,
+      "announced": 5000.0,
+      "maturity": "2030-12-01"
+     }
+    ]
+   },
+   {
+    "open_date": "2026-11-30",
+    "close_date": "2026-12-14",
+    "issue_date": "2026-12-15",
+    "terms": [
+     {
+      "term_years": 1,
+      "announced": 20000.0,
+      "maturity": "2027-12-15"
+     },
+     {
+      "term_years": 2,
+      "announced": 10000.0,
+      "maturity": "2028-12-15"
+     },
+     {
+      "term_years": 3,
+      "announced": 5000.0,
+      "maturity": "2029-12-15"
+     },
+     {
+      "term_years": 4,
+      "announced": 5000.0,
+      "maturity": "2030-12-15"
+     }
+    ]
+   },
+   {
+    "open_date": "2026-12-14",
+    "close_date": "2026-12-28",
+    "issue_date": "2026-12-29",
+    "terms": [
+     {
+      "term_years": 1,
+      "announced": 20000.0,
+      "maturity": "2027-12-29"
+     },
+     {
+      "term_years": 2,
+      "announced": 10000.0,
+      "maturity": "2028-12-29"
+     },
+     {
+      "term_years": 3,
+      "announced": 5000.0,
+      "maturity": "2029-12-29"
+     },
+     {
+      "term_years": 4,
+      "announced": 5000.0,
+      "maturity": "2030-12-29"
+     }
+    ]
+   },
+   {
+    "open_date": "2026-12-28",
+    "close_date": "2027-01-11",
+    "issue_date": "2027-01-12",
+    "terms": [
+     {
+      "term_years": 1,
+      "announced": 20000.0,
+      "maturity": "2028-01-12"
+     },
+     {
+      "term_years": 2,
+      "announced": 10000.0,
+      "maturity": "2029-01-12"
+     },
+     {
+      "term_years": 3,
+      "announced": 5000.0,
+      "maturity": "2030-01-12"
+     },
+     {
+      "term_years": 4,
+      "announced": 5000.0,
+      "maturity": "2031-01-12"
+     }
+    ]
+   }
+  ]
+ },
+ "generated_at": "2026-11-27T09:41:06+00:00"
 }
